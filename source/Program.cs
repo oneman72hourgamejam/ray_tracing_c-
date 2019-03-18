@@ -125,7 +125,7 @@ namespace ray_tracing_c_sharp
         {
             int nx = 200;
             int ny = 100;
-            string file = @"C:\Users\User\Desktop\ex1.ppm";
+            string file = Environment.CurrentDirectory + @"\ex1.ppm";
 
             var writer = new StreamWriter(file);
             writer.WriteLine("P3");

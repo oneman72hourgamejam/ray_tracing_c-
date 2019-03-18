@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ray_tracing_c_sharp", "ray_tracing_c_sharp.csproj", "{D3DAD857-30C2-429A-97CE-3088FEB690FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "source", "ray_tracing_c_sharp.csproj", "{D3DAD857-30C2-429A-97CE-3088FEB690FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
