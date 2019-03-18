@@ -1,0 +1,7 @@
+C:\VULKAN\ray_tracing_c_sharp\bin\Debug\ray_tracing_c_sharp.exe.config
+C:\VULKAN\ray_tracing_c_sharp\bin\Debug\ray_tracing_c_sharp.exe
+C:\VULKAN\ray_tracing_c_sharp\bin\Debug\ray_tracing_c_sharp.pdb
+C:\VULKAN\ray_tracing_c_sharp\obj\Debug\ray_tracing_c_sharp.csprojAssemblyReference.cache
+C:\VULKAN\ray_tracing_c_sharp\obj\Debug\ray_tracing_c_sharp.csproj.CoreCompileInputs.cache
+C:\VULKAN\ray_tracing_c_sharp\obj\Debug\ray_tracing_c_sharp.exe
+C:\VULKAN\ray_tracing_c_sharp\obj\Debug\ray_tracing_c_sharp.pdb
